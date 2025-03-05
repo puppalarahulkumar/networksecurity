@@ -2,10 +2,11 @@ python-dotenv
 pandas
 numpy
 pymongo
-pymongo[srv]==3.6
+pymongo[srv]==3.10
 certifi
 scikit-learn
 dill
+mlflow
 pyaml
 
 #-e .
